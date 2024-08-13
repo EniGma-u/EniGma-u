@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет, я [Ваше Имя] 👋
 
-<!--
-**EniGma-u/EniGma-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!GitHub followers
+!GitHub stars
 
-Here are some ideas to get you started:
+## О себе
+- 🌱 Сейчас изучаю: [Технология]
+- 💬 Спрашивайте меня о: [Темы]
+- 📫 Как связаться: [Email]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки
+!Python
+!JavaScript
+
+## Социальные сети
+!LinkedIn
+!Twitter
+
+## GitHub статистика
+!Ваше Имя GitHub Stats
